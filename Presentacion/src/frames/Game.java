@@ -27,7 +27,7 @@ import javax.swing.JTextArea;
 /**
  *
  * @author Equipo 2
- * prueba git
+ * prueba git 2
  */
 public class Game extends javax.swing.JFrame {
     //Instancia a la clase Fábrica
